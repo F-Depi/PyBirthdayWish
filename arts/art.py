@@ -122,6 +122,4 @@ mainArt = \
         '-._,-' `-....-'     ````                                                                   ````     `-....-' '-._,-'
          
 
-
-git clone https://github.com/hemantapkh/PyBirthdayWish.git && cd PyBirthdayWish && pip install -r requirements.txt
 '''
